@@ -3,7 +3,7 @@
 沈阳航空航天大学计算机学院研究生各种课程资料（含布置的作业）
 Various Course Materials for Graduate Students of Computer College of Shenyang University of Aeronautics and Astronautics
 
-研一上：
+#研一上：
 
   分布式数据库
   
@@ -28,8 +28,7 @@ Various Course Materials for Graduate Students of Computer College of Shenyang U
   
   
   
-  
-研一下：
+#研一下：
 
   图像处理
   
